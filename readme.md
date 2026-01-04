@@ -52,11 +52,12 @@ This project represents my **first hands-on deep learning implementation**, focu
 ### Dataset Samples
 The following image shows sample images from the Fashion-MNIST dataset with their corresponding class labels.
 
-![Dataset Samples](img/pic1.png)
+![Dataset Samples](pic1.png)
 
 ---
 
 ### Model Predictions
 The image below shows the model’s predictions, including the predicted class and confidence distribution for each sample.
 
-![Prediction Results](img/pic2.png)
+![Prediction Results](pic2.png)
+
